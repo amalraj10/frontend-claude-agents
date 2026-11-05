@@ -1,0 +1,6 @@
+node_modules/
+fidelity-report/
+.claude/tickets/
+fe-check-report.md
+*.log
+.DS_Store

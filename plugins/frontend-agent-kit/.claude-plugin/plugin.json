@@ -1,0 +1,10 @@
+{
+  "name": "frontend-agent-kit",
+  "version": "0.1.0",
+  "description": "Agents and workflows for frontend developers: Figma to code, Figma-vs-website fidelity checks, API integration with mocks and contract checks, frontend security, testing, accessibility and bug fixing.",
+  "author": {
+    "name": "Amalraj PM"
+  },
+  "license": "MIT",
+  "keywords": ["frontend", "figma", "design-to-code", "api-integration", "testing", "playwright", "accessibility", "security"]
+}

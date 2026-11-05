@@ -1,0 +1,17 @@
+{
+  "name": "frontend-agent-kit",
+  "owner": {
+    "name": "Amalraj PM"
+  },
+  "metadata": {
+    "description": "Claude Code agents and commands for frontend developers: Figma to code, Figma-vs-website checks, API integration, testing, security and bug fixing."
+  },
+  "plugins": [
+    {
+      "name": "frontend-agent-kit",
+      "source": "./plugins/frontend-agent-kit",
+      "description": "Figma screen builder, design fidelity checker, API integrator, frontend security checker, plus /fe-ticket, /fe-check and /fe-bug workflows.",
+      "version": "0.1.0"
+    }
+  ]
+}
