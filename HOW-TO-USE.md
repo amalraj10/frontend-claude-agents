@@ -34,7 +34,7 @@ Type these commands into the **Claude Code chat box**, not a normal terminal.
 
 ### Option A: from GitHub (teammates)
 ```
-/plugin marketplace add <org>/frontend-agent-kit
+/plugin marketplace add amalraj10/frontend-claude-agents
 /plugin install frontend-agent-kit@frontend-agent-kit
 ```
 

@@ -43,7 +43,7 @@ Skill: **ui-leftover-scan** finds lorem ipsum, "test" strings, TODOs, `href="#"`
 
 **Install:** in the Claude Code chat, run:
 ```
-/plugin marketplace add <org>/frontend-agent-kit
+/plugin marketplace add amalraj10/frontend-claude-agents
 /plugin install frontend-agent-kit@frontend-agent-kit
 ```
 Restart Claude Code. The commands and agents are now available in every project you open.
@@ -52,7 +52,7 @@ Restart Claude Code. The commands and agents are now available in every project 
 ```json
 {
   "extraKnownMarketplaces": {
-    "frontend-agent-kit": { "source": { "source": "github", "repo": "<org>/frontend-agent-kit" } }
+    "frontend-agent-kit": { "source": { "source": "github", "repo": "amalraj10/frontend-claude-agents" } }
   },
   "enabledPlugins": { "frontend-agent-kit@frontend-agent-kit": true }
 }
