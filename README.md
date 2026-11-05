@@ -4,6 +4,8 @@ AI agents and workflows that follow our frontend flow: **Figma design → UI cod
 
 You stay in control: the kit builds, checks and fixes, and **you review and merge**.
 
+📘 **New here? Read [HOW-TO-USE.md](HOW-TO-USE.md)** for step-by-step install, daily use with examples, and troubleshooting.
+
 ## What's inside
 
 ### Commands
